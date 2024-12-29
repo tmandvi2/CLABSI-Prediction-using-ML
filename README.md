@@ -3,13 +3,13 @@ Predicting Central Line Associated Bloodstream Infection using ML Algorithms - A
 
 This project synthesizes insights from two key assignments focusing on Central Line-Associated Bloodstream Infections (CLABSI) in Pediatric Intensive Care Units (PICUs). These reports encompass the financial, clinical, and predictive modeling aspects of CLABSI, along with advanced sampling techniques to improve data-driven analysis and outcomes.
 
-1. Financial and Clinical Impact of CLABSI in PICUs**
+1. Financial and Clinical Impact of CLABSI in PICUs
 Study 1: Financial Burden 
   - Conducted at St. Louis Children’s Hospital, this prospective cohort study quantified the economic impact of nosocomial bloodstream infections.
   - Findings revealed a significant cost difference between infected and non-infected patients, with an attributable cost of $39,219 per infection. Key drivers included severity of illness, congenital heart disease, and ventilator support.
   - The study emphasized the need for effective infection prevention strategies to reduce costs and improve patient outcomes.
 
-Study 2: Risk Factor Analysis**  
+Study 2: Risk Factor Analysis
   - A case-control study at Boston Children’s Hospital identified independent risk factors for CLABSI, such as prolonged ICU stays, ICU central line placement, and gastrostomy tubes.
   - Patients receiving parenteral nutrition or blood transfusions were particularly vulnerable, with CLABSI patients experiencing higher mortality rates (20.7% vs. 4.9% for controls).
   - Targeted interventions, like antibiotic-coated catheters and rigorous infection control protocols, were recommended for high-risk groups.
